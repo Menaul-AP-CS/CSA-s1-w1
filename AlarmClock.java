@@ -1,3 +1,4 @@
+// tryint to teach my students to use git
 public class AlarmClock {
     private String clockTime; // Format: "HH:MM"
     private String alarmTime; // Format: "HH:MM"
